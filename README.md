@@ -24,7 +24,7 @@ A comprehensive implementation of Genetic Algorithms (GA) in Python, featuring b
 - [Performance](#performance)
 - [Contributing](#contributing)
 - [References](#references)
-- [License](#license)
+
 
 ## Overview
 
@@ -378,9 +378,6 @@ Contributions are welcome! Please follow these steps:
 2. Goldberg, D. E. (1989). *Genetic Algorithms in Search, Optimization, and Machine Learning*. Addison-Wesley.
 3. Mitchell, M. (1998). *An Introduction to Genetic Algorithms*. MIT Press.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
